@@ -23,7 +23,7 @@ To write a Python function that creates a list of even numbers from 12 to n and 
 **PROGRAM**
 
 **212223060177 - NABISHA A**
-
+```
 def createlist(n):
     l=[]
     for i in range(12,n):
@@ -32,7 +32,7 @@ def createlist(n):
     print("List =",l)
     print("Sum of the list",sum(l))
 
-
+```
 **OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/ed7c4457-ae3f-44e7-9595-582c59638b5a)
