@@ -21,7 +21,7 @@ To create a tuple of multiples of 9 up to N and print the tuple and its length.
 **PROGRAM**
 
 **212223060177 - NABISHA A**
-
+```
 n=eval(input())
 a=[]
 for i in range(1,n):
@@ -31,7 +31,7 @@ b=tuple(a)
 print(b)
 print("Length of the tuple is",len(a))
 
-
+```
 
 **OUTPUT**
 
