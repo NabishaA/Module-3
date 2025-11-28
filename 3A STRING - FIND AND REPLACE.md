@@ -22,11 +22,11 @@ To write a Python program that defines a function to accept a string and join it
 **PROGRAM**
 
 **212223060177 - NABISHA A**
-
+```
 def joinstring(s):
     s1='-'.join(s)
     print(s1)
-
+```
 
 **OUTPUT**
 
