@@ -20,11 +20,11 @@ To write a Python function that splits an email ID string into two parts using t
 **PROGRAM**
 
 **212223060177 - NABISHA A**
-
+```
 def splitstring(a):
     x=a.split('@')
     print(x)
-
+```
 
 **OUTPUT**
 
